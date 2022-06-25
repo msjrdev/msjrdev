@@ -59,7 +59,15 @@
 
 ### Github Stats
 
+<div>
+<a href="https://github.com/msjrdev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msjrdev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msjrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+ 
+<!--
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=msjdev&show_icons=true&count_private=true&theme=merko" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msjdev&layout=compact&theme=merko&hide=css,html,jupyter%20notebook" height = "165">
 </a>
+-->
