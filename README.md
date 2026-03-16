@@ -4,6 +4,7 @@
 
 
 - Analista de Sistema ZIM!
+- Backend Python
 - Desenvolvedor Full Stack Junior
 - Resido em Teresina, Piauí
 
